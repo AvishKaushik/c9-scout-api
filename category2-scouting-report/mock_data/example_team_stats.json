@@ -1,0 +1,63 @@
+{
+  "team": {
+    "id": "team_c9",
+    "name": "Cloud9",
+    "shortName": "C9",
+    "logoUrl": "https://example.com/c9-logo.png",
+    "region": "NA",
+    "stats": {
+      "gamesPlayed": 45,
+      "wins": 32,
+      "losses": 13,
+      "winRate": 0.711,
+      "averageGameDuration": 1950,
+      "firstBloodRate": 0.62,
+      "firstTowerRate": 0.58,
+      "firstDragonRate": 0.67,
+      "firstHeraldRate": 0.55,
+      "firstBaronRate": 0.72,
+      "averageDragons": 3.2,
+      "averageBarons": 0.85,
+      "averageTowers": 7.5,
+      "averageKills": 15.2,
+      "averageDeaths": 10.8
+    },
+    "players": [
+      {
+        "id": "player_001",
+        "name": "Fudge",
+        "nickname": "Fudge",
+        "role": "top",
+        "isActive": true
+      },
+      {
+        "id": "player_002",
+        "name": "Blaber",
+        "nickname": "Blaber",
+        "role": "jungle",
+        "isActive": true
+      },
+      {
+        "id": "player_003",
+        "name": "Jojopyun",
+        "nickname": "Jojo",
+        "role": "mid",
+        "isActive": true
+      },
+      {
+        "id": "player_004",
+        "name": "Berserker",
+        "nickname": "Berserker",
+        "role": "adc",
+        "isActive": true
+      },
+      {
+        "id": "player_005",
+        "name": "Vulcan",
+        "nickname": "Vulcan",
+        "role": "support",
+        "isActive": true
+      }
+    ]
+  }
+}
